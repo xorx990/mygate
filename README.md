@@ -1,11 +1,12 @@
-# MyGate Network
+# MyGate Network Bot
 ![banner](image.png)
 
 
 ## Features
 
 - **Auto Generate Node ID**
-- **Auto Connect Node**
+- **Auto Connect/ping Node**
+- **Auto Reconnect Node**
 
 - **Support multiple accounts**
 - **Support Proxy usage**
