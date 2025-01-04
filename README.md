@@ -16,7 +16,7 @@
 
 - Node.js installed on your machine
 - `tokens.txt` file containing token my-gate platform follow instruction below to get:
-- Open my-gate platform [https://mygate.network/](https://app.mygate.network/login?code=LfBWAQ)
+- Open my-gate platform [https://mygate.network/](https://app.mygate.network/login?code=nnw2B3)
 - Login With your gmail
 - inspect or just F12, and find Network
 - copy the token and save it in `tokens.txt` 
